@@ -1,0 +1,23 @@
+body {
+    background: #000000; 
+    background: -webkit-linear-gradient(to right,#314785 , #800080); 
+    background: linear-gradient(to right, #314785, #800080);
+
+}
+
+a.navbar-brand {
+    color: #01ee38 ;
+}
+
+a.nav-link {
+    color: #01ee38 ;
+}
+
+a.active {
+    color: #01ee38 ;
+}
+
+div.nosotros {
+    color: white;
+}
+
